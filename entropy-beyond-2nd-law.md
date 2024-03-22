@@ -281,10 +281,26 @@
 
 ---
 
-This is the reformatted table of contents using Markdown text for line gaps and bullets. 
+**‘A theory is the more impressive the greater the simplicity of its premises, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression that classical thermodynamics made upon me. It is the only physical theory of universal content which I am convinced will never be overthrown’**
+- Albert Einstein, quoted in Schlipp P A 1979 Autobiographical Notes. A Centennial Edition (Open Court Publishing Company) p 31
+-- 
+**‘The law that entropy always increases holds, I think, the supreme position among the laws of Nature ...if your theory is found to be against the second law of thermodynamics I can give you no hope’**
+- Eddington A S 1928 The Nature of the Physical World (Cambridge: Cambridge University Press) chapter 4
+-- 
+**‘There is no concept in the whole field of physics which is more difficult to understand than is the concept of entropy, nor is there one which is more fundamental’**
+- Sears F 1950 Principles of Physics I: Mechanics, Heat, and Sound (Reading, MA: Addison-Wesley) p 459
+-- 
+**‘Few physical concepts have caused as much confusion and misunderstanding as has that of entropy’**
+Lovelock J 1979, Gaia: A New Look at Life on Earth (Oxford: Oxford University Press) p 2
+-- 
+**‘our science colleagues may...help us with ‘entropy’, which to me is a more difficult concept than anything economics has to offer.’**
+- Tjalling Koopmans, quoted in Faber M, Niemes H, and Stephan G 2005 Entropy, Environment, and Resources: an Essay in Physico-economics (Berlin: Springer) p 77
 
 ---
+
+
 ## 1. Entropy counts: universal nature of the statistical entropy
+----
   * Entropy, weight, probability, and information 
       * Conservation, counting, and linear additivity 
       * Probability, weight, and entropy
